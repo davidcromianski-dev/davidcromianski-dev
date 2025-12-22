@@ -16,7 +16,7 @@ Focused on backend and fullstack development, with emphasis on scalability, main
 
 ## GitHub Activity
 
-<table>
+<table border="0">
   <tr>
     <td width="50%">
       <h3>General Statistics</h3>
@@ -82,7 +82,7 @@ Focused on backend and fullstack development, with emphasis on scalability, main
 
 ## Highlighted Metrics
 
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://komarev.com/ghpvc/?username=your-username&style=flat&label=Profile%20Views" alt="Profile Views" />
@@ -115,7 +115,7 @@ Repository: https://github.com/davidcromianski-dev/ant-di
 
 ### Project Metrics
 
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://img.shields.io/github/stars/davidcromianski-dev/ant-di?style=flat" alt="Repository Stars" />
@@ -143,7 +143,7 @@ The project serves as both a production-ready utility and a study in software de
 
 ## Professional Goals
 
-- Advance expertise in backend and distributed systems  
+- Advance expertise in fullstack and distributed systems  
 - Contribute to large-scale, high-impact software  
 - Work with international teams and global products  
 - Maintain high engineering standards and long-term code quality  
