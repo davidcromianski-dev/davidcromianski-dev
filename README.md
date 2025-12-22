@@ -1,28 +1,28 @@
 # Hi, I'm David Cromianski
 
 Software Engineer with professional experience in building, maintaining, and evolving scalable systems.  
-Focused on backend and fullstack development, with emphasis on scalability, maintainability, and clean architecture.
+Focused on frontend development, with emphasis on user experience, performance, and clean architecture.
 
 ---
 
 ## Profile Overview
 
 - Software Engineer with approximately 5 years of industry experience  
-- Strong backend orientation with fullstack background  
+- Strong frontend orientation with fullstack background  
 - Experience working with production systems and long-lived codebases  
-- Interested in distributed systems and international opportunities  
+- Interested in user interface design and international opportunities  
 
 ---
 
 ## GitHub Activity
 
-<table border="0">
+<table style="border: none;">
   <tr>
-    <td width="50%">
+    <td style="border: none;" width="50%">
       <h3>General Statistics</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=davidcromianski-dev&show_icons=false&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
-    <td width="50%">
+    <td style="border: none;" width="50%">
       <h3>Most Used Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcromianski-dev&layout=compact&hide_border=true" alt="Top Languages" />
     </td>
@@ -74,20 +74,20 @@ Focused on backend and fullstack development, with emphasis on scalability, main
 
 ## Learning and Growth
 
-- Continuous study of backend and distributed systems  
+- Continuous study of frontend technologies and user experience  
 - Hands-on experimentation through proof-of-concept repositories  
-- Focus on improving system design and architectural decisions  
+- Focus on improving UI/UX design and frontend architectural decisions  
 
 ---
 
 ## Highlighted Metrics
 
-<table border="0">
+<table style="border: none;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://komarev.com/ghpvc/?username=your-username&style=flat&label=Profile%20Views" alt="Profile Views" />
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://img.shields.io/github/last-commit/your-username/your-username?label=Last%20Profile%20Update" alt="Last Commit" />
     </td>
   </tr>
@@ -98,9 +98,9 @@ Focused on backend and fullstack development, with emphasis on scalability, main
 ## Featured Repositories
 
 Pinned repositories on this profile showcase:
-- Backend-focused projects  
-- Architectural experiments and technical studies  
-- APIs and integration-based systems  
+- Frontend-focused projects  
+- UI/UX experiments and technical studies  
+- Component libraries and user interface systems  
 
 Each repository includes documentation describing scope, stack, and technical decisions.
 
@@ -115,13 +115,13 @@ Repository: https://github.com/davidcromianski-dev/ant-di
 
 ### Project Metrics
 
-<table border="0">
+<table style="border: none;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://img.shields.io/github/stars/davidcromianski-dev/ant-di?style=flat" alt="Repository Stars" />
       <img src="https://img.shields.io/github/forks/davidcromianski-dev/ant-di?style=flat" alt="Repository Forks" />
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://img.shields.io/github/issues/davidcromianski-dev/ant-di?style=flat" alt="Repository Issues" />
       <img src="https://img.shields.io/github/last-commit/davidcromianski-dev/ant-di?style=flat" alt="Last Commit" />
     </td>
@@ -143,7 +143,7 @@ The project serves as both a production-ready utility and a study in software de
 
 ## Professional Goals
 
-- Advance expertise in fullstack and distributed systems  
+- Advance expertise in frontend development and user experience  
 - Contribute to large-scale, high-impact software  
 - Work with international teams and global products  
 - Maintain high engineering standards and long-term code quality  
