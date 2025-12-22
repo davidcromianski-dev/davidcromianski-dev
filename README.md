@@ -17,13 +17,13 @@ Focused on backend and fullstack development, with emphasis on scalability, main
 ## GitHub Activity
 
 ### General Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=false&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidcromianski-dev&show_icons=false&hide_border=true&include_all_commits=true&count_private=true)
 
 ### Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=davidcromianski-dev&hide_border=true)
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcromianski-dev&layout=compact&hide_border=true)
 
 ---
 
