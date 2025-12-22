@@ -16,14 +16,18 @@ Focused on backend and fullstack development, with emphasis on scalability, main
 
 ## GitHub Activity
 
-### General Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidcromianski-dev&show_icons=false&hide_border=true&include_all_commits=true&count_private=true)
-
-### Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=davidcromianski-dev&hide_border=true)
-
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcromianski-dev&layout=compact&hide_border=true)
+<table>
+  <tr>
+    <td width="50%">
+      <h3>General Statistics</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=davidcromianski-dev&show_icons=false&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
+      <h3>Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcromianski-dev&layout=compact&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -78,9 +82,16 @@ Focused on backend and fullstack development, with emphasis on scalability, main
 
 ## Highlighted Metrics
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat&label=Profile%20Views)
-
-![Last Commit](https://img.shields.io/github/last-commit/your-username/your-username?label=Last%20Profile%20Update)
+<table>
+  <tr>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=your-username&style=flat&label=Profile%20Views" alt="Profile Views" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/last-commit/your-username/your-username?label=Last%20Profile%20Update" alt="Last Commit" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -104,10 +115,18 @@ Repository: https://github.com/davidcromianski-dev/ant-di
 
 ### Project Metrics
 
-![Repository Stars](https://img.shields.io/github/stars/davidcromianski-dev/ant-di?style=flat)
-![Repository Forks](https://img.shields.io/github/forks/davidcromianski-dev/ant-di?style=flat)
-![Repository Issues](https://img.shields.io/github/issues/davidcromianski-dev/ant-di?style=flat)
-![Last Commit](https://img.shields.io/github/last-commit/davidcromianski-dev/ant-di?style=flat)
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/github/stars/davidcromianski-dev/ant-di?style=flat" alt="Repository Stars" />
+      <img src="https://img.shields.io/github/forks/davidcromianski-dev/ant-di?style=flat" alt="Repository Forks" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues/davidcromianski-dev/ant-di?style=flat" alt="Repository Issues" />
+      <img src="https://img.shields.io/github/last-commit/davidcromianski-dev/ant-di?style=flat" alt="Last Commit" />
+    </td>
+  </tr>
+</table>
 
 ### Activity and Language Breakdown
 
