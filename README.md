@@ -150,11 +150,4 @@ The project serves as both a production-ready utility and a study in software de
 
 ---
 
-## Contact
-
-- GitHub: https://github.com/your-username  
-- LinkedIn: optional  
-
----
-
 This profile is continuously evolving as part of my professional development.
