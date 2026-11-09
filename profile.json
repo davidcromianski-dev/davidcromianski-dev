@@ -1,0 +1,43 @@
+{
+  "login": "davidcromianski-dev",
+  "header": "david@cromianski",
+  "birthdate": null,
+  "career_start": "2021-01-01",
+  "loc_affiliations": ["OWNER", "COLLABORATOR", "ORGANIZATION_MEMBER"],
+  "sections": [
+    {
+      "title": null,
+      "items": [
+        ["Role", "Fullstack Web Developer"],
+        ["Focus", "Frontend, UI/UX, Performance"],
+        ["Location", "Brazil"],
+        ["Uptime", "{uptime}"],
+        ["Experience", "{experience} in production systems"]
+      ]
+    },
+    {
+      "title": null,
+      "items": [
+        ["Languages.Programming", "TypeScript, JavaScript, SQL"],
+        ["Languages.Real", "Portuguese, English"],
+        ["Stack.Frontend", "React, HTML5, CSS3"],
+        ["Stack.Backend", "Node.js, REST APIs"],
+        ["Stack.Data", "PostgreSQL, MySQL"],
+        ["Stack.DevOps", "Docker, Git, CI/CD, Linux"],
+        ["Practices", "Clean Architecture, SOLID"]
+      ]
+    },
+    {
+      "title": "Projects",
+      "items": [
+        ["ant-di", "Lightweight DI container for JS/TS"]
+      ]
+    },
+    {
+      "title": "Contact",
+      "items": [
+        ["GitHub", "github.com/davidcromianski-dev"]
+      ]
+    }
+  ]
+}
